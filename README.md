@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/ennanco/TSP_SAEC?style=flat-square) ![Julia](https://img.shields.io/badge/Julia-1.10.0-blueviolet?logo=Julia)
+![GitHub](https://img.shields.io/github/license/ennanco/TSP_SAEA?style=flat-square) ![Julia](https://img.shields.io/badge/Julia-1.10.0-blueviolet?logo=Julia)
 
 
 # Surrogate Evaluation with ANN in a Genetic Algorithm for the Traveling Salesman Problem (TSP)
@@ -39,9 +39,10 @@ To run the project, execute the `main.jl` script:
 
 ```bash
 julia main.jl
-
-
+```
+```
 
 
 # License
+
 This project is licensed under the MIT License
