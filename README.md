@@ -40,8 +40,6 @@ To run the project, execute the `main.jl` script:
 ```bash
 julia main.jl
 ```
-```
-
 
 # License
 
